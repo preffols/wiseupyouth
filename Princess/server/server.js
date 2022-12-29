@@ -6,7 +6,7 @@ import { Configuration, OpenAIApi } from 'openai'
 dotenv.config()
 
 const configuration = new Configuration({
-    apiKey: process.env.OPENAI_API_KEY,
+    apiKey: "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",
 });
 
 const openai = new OpenAIApi(configuration);
@@ -45,4 +45,4 @@ app.post('/', async (req, res) => {
     }
 })
 
-app.listen(80, () => console.log('Princess started on https://www.wiseupyouth.com'))
+app.listen(80, () => console.log('Princess started on https://www.wiseupyouth.com:80'))
