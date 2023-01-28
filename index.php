@@ -113,7 +113,7 @@
 
         <div class="row">
           <div background-image: url("assets/img/wozitsata.png"); id="pnc" class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-
+            <img src="assets/img/wozitsata.png">
 
 
           </div>
@@ -160,7 +160,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="row">
-          <div class="image col-lg-6" style='background-image: url("assets/img/features.jpg");' data-aos="fade-right"></div>
+          <div class="image col-lg-6" style='background-image: url("assets/img/fetu.jpeg");' data-aos="fade-right"></div>
           <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
             <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
               <i class="bx bx-receipt"></i>
