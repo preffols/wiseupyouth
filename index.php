@@ -112,7 +112,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="row">
-          <div background-image: url("assets/img/wozitsata.jpeg"); id="pnc" class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
+          <div background-image: url("assets/img/wozitsata.png"); id="pnc" class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
 
 
 
